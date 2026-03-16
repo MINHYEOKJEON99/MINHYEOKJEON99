@@ -5,9 +5,10 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=60&lines=Building+Modern+Web+%26+App+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=72&lines=Building+Modern+Web+%26+App+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 <samp>프론트엔드 개발자 전민혁입니다. 사용자 경험을 최우선으로 생각합니다.</samp>

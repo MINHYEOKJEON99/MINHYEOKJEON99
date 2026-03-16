@@ -5,10 +5,9 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=72&lines=Building+Modern+Web+%26+App+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=84&lines=Building+Modern+Web+%26+App+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
-<br/>
 <br/>
 
 <samp>프론트엔드 개발자 전민혁입니다. 사용자 경험을 최우선으로 생각합니다.</samp>
@@ -70,7 +69,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MINHYEOKJEON99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MINHYEOKJEON99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MINHYEOKJEON99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
 <br/><br/>
